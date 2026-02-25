@@ -27,3 +27,6 @@
 
 🌟 
 祝愿各位学弟学妹都能在大学生活中找到自己的热爱与方向，在未来的道路上熠熠生辉！
+
+---
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
